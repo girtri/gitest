@@ -1,5 +1,5 @@
 var a;
 a = 0;
 
-var z;
-z = 9;
+var b;
+b = 1;
