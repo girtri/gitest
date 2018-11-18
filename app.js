@@ -2,7 +2,7 @@ var a;
 a = 0;
 
 var b;
-b = 2;
+b = 3;
 
 var c = function() {
 	alert('ciao');
